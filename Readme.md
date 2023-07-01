@@ -67,14 +67,14 @@ npm run dev
 
 ### 界面预览
 
-首页
+* 首页
 
-![]()
+![](https://raw.githubusercontent.com/geeeeeeeek/python_jiajiao/master/server/upload/img/a.png)
 
 
-后台页面
+* 后台页面
 
-![]()
+![](https://raw.githubusercontent.com/geeeeeeeek/python_jiajiao/master/server/upload/img/b.png)
 
 
 
